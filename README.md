@@ -6,6 +6,17 @@
 
 ---
 
+## 🎮 先看这个（2 分钟）
+
+[![实机演示](https://img.shields.io/badge/Bilibili-四天游戏开发实机演示-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV12AM96JEDg/)
+
+**⬇️ 想自己上手玩：[下载《血族狂猎》Demo（Windows）](../../releases/latest)**
+
+> Windows 64 位 · 解压即玩 · 建议 1920×1080 分辨率
+> *（如果 Releases 处暂无下载，说明我正在更新构建版本，可先看上方视频）*
+
+---
+
 ## 我是谁
 
 经济学专业背景转游戏策划。经济学让我习惯用**模型和数据**思考问题，而两年的个人项目开发让我把这些思考**真正落地成了能跑的系统**——
@@ -18,10 +29,11 @@
 
 一款 **1~4 人在线合作动作 Roguelike**（类吸血鬼幸存者），中世纪教堂与废墟主题，单局约 25 分钟。个人项目，3 人协作开发，我承担**全部策划设计与数值实现**。
 
-**项目仓库**：[github.com/2685394003-sys/Vampire-Hunt](https://github.com/2685394003-sys/Vampire-Hunt)
-（含完整策划文档 `Docs/VampireHunt/`、配置资产、119 次提交记录）
-
-**实机演示**：[四天游戏开发实机演示](https://www.bilibili.com/video/BV12AM96JEDg/)
+| | |
+|---|---|
+| **试玩下载** | [Releases → 下载 Demo](../../releases/latest)（Windows，解压即玩） |
+| **实机演示** | [B 站视频（2 分钟）](https://www.bilibili.com/video/BV12AM96JEDg/) |
+| **源码仓库** | [Vampire-Hunt](https://github.com/2685394003-sys/Vampire-Hunt)（含 `Docs/VampireHunt/` 完整策划文档、配置资产、119 次提交） |
 
 ### 我做了什么
 
