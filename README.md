@@ -6,14 +6,15 @@
 
 ---
 
-## 🎮 先看这个（2 分钟）
+## 🎮 试玩这个 Demo
 
-[![实机演示](https://img.shields.io/badge/Bilibili-四天游戏开发实机演示-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV12AM96JEDg/)
-
-**⬇️ 想自己上手玩：[下载《血族狂猎》Demo（Windows）](../../releases/latest)**
+**⬇️ [下载《血族狂猎》Demo（Windows）](../../releases/latest)**
 
 > Windows 64 位 · 解压即玩 · 建议 1920×1080 分辨率
-> *（如果 Releases 处暂无下载，说明我正在更新构建版本，可先看上方视频）*
+>
+> 解压后双击 `Vampire Hunt.exe` 启动。首次启动需要 10~20 秒加载。
+>
+> *（含操作说明与版本说明，见 Release 页面）*
 
 ---
 
@@ -32,7 +33,6 @@
 | | |
 |---|---|
 | **试玩下载** | [Releases → 下载 Demo](../../releases/latest)（Windows，解压即玩） |
-| **实机演示** | [B 站视频（2 分钟）](https://www.bilibili.com/video/BV12AM96JEDg/) |
 | **源码仓库** | [Vampire-Hunt](https://github.com/2685394003-sys/Vampire-Hunt)（含 `Docs/VampireHunt/` 完整策划文档、配置资产、119 次提交） |
 
 ### 我做了什么
